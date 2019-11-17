@@ -6,6 +6,7 @@
 * https://www.aclweb.org/anthology/D19-1076.pdf
 
 * https://www.aclweb.org/anthology/E17-1088.pdf (2017) *[Влад]*
+Мультиязычные эмбеддинги (semi-supervised learning на данных для высокоресурсных языков) используются при инициализации языковой моноязычной модели для низкоресурсного языка (тонального). 
 
 * https://arxiv.org/pdf/1902.00508v1.pdf (2019) *[Влад]*
 
@@ -22,6 +23,12 @@
 наверное, на основании факта того, что вывод энкодера для всех языков одинаковый по смыслу, 
 что-то в духе аттеншна. 
 но это я не читал ещё).
+
+* https://www.aclweb.org/anthology/D15-1131.pdf
+We introduce Trans-gram, a simple and computationally-efficient method to simultaneously learn and align word- embeddings for a variety of languages, us- ing only monolingual data and a smaller set of sentence-aligned data. We use our new method to compute aligned word- embeddings for twenty-one languages us- ing English as a pivot language. We show that some linguistic features are aligned across languages for which we do not have aligned data, even though those properties do not exist in the pivot language. We also achieve state of the art results on standard cross-lingual text classification and word translation tasks.
+
+* http://isl.anthropomatik.kit.edu/cmu-kit/downloads/Neural_Network_Language_Models_for_Low_Resource_Languages.pdf
+
 
 * https://www.aclweb.org/anthology/W19-4222 (2019) *[Олег]*
 **малоресурсные!** **полисинтетические!** 
