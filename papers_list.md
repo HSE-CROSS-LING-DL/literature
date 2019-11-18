@@ -1,9 +1,9 @@
 Список статей к изучению
-* https://arxiv.org/pdf/1804.07875.pdf
+* https://arxiv.org/pdf/1804.07875.pdf (2018) *[Арина]*
 
-* https://arxiv.org/pdf/1910.10893.pdf
+* https://arxiv.org/pdf/1910.10893.pdf (2019) *[Арина]*
 
-* https://www.aclweb.org/anthology/D19-1076.pdf
+* https://www.aclweb.org/anthology/D19-1076.pdf (2019) *[Арина]*
 
 * https://www.aclweb.org/anthology/E17-1088.pdf (2017) *[Влад]*
 Мультиязычные эмбеддинги (semi-supervised learning на данных для высокоресурсных языков) используются при инициализации языковой моноязычной модели для низкоресурсного языка (тонального). 
